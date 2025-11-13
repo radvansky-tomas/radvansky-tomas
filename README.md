@@ -20,17 +20,17 @@
 
 ---
 
-### 👋 About me
+### About me
 - 🇸🇰 Slovak living in Northland, New Zealand (PR)
-- 💼 **Fractional / Temp CTO** for greenfield startups
-- 🧪 TDD-first, writing unit & integration tests
-- 🧑‍💻 Remote-only (no office, no relocation)
-- ☁️ GCP + Firebase + Node.js (TS) Functions
-- 🔧 CI/CD with GitHub Actions
-- 💚 I love meaningful, science-oriented projects
-- 💬 Admin for **Firebase Support** Slack
+- Fractional / Temp CTO for greenfield startups
+- TDD-first, writing unit & integration tests
+- Remote-only (no office, no relocation)
+- GCP + Firebase + Node.js (TS) Functions
+- CI/CD with GitHub Actions
+- Love meaningful, science-oriented projects
+- Admin for Firebase Support Slack
 
-### 🛠️ Tech I use daily
+### Tech I use daily
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
@@ -42,20 +42,20 @@
   <img alt="TDD" src="https://img.shields.io/badge/TDD-Tests%20as%20specs-success">
 </p>
 
-### 🚀 Featured projects
+### Featured projects
 - **Backyard Hunt** — QR-code based treasure/scavenger hunts for kids  
-  🔗 https://backyard-hunt.com  
+  https://backyard-hunt.com  
 - **Click Defeat** — Idle button-smashing time trials for couples/friends  
-  🔗 https://click-defeat.com
+  https://click-defeat.com
 
-### 🧭 What I do as a Fractional CTO
-- Design **mobile + backend** greenfield stacks (Flutter + Firebase + Functions)
-- Establish **quality gates** and test strategies
-- Build **CI/CD pipelines** (build, test, release)
+### What I do as a Fractional CTO
+- Design mobile + backend greenfield stacks (Flutter + Firebase + Functions)
+- Establish quality gates and test strategies
+- Build CI/CD pipelines (build, test, release)
 - Architect secure multi-env Firebase setups
-- Mentor teams on architecture, clarity, and delivery cadence
+- Mentor teams on architecture and delivery cadence
 
-### 🗺️ Typical architecture
+### Typical architecture
 ```mermaid
 graph LR
   A[Flutter App (iOS/Android/Web)] --> B[Firebase Auth]
