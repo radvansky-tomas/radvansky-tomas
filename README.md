@@ -25,7 +25,7 @@
 - Fractional / Temp CTO for greenfield startups
 - TDD-first, writing unit & integration tests
 - Remote-only (no office, no relocation)
-- GCP + Firebase + Node.js (TS) Functions
+- GCP + Firebase + Node.js (TS) Cloud Functions
 - CI/CD with GitHub Actions
 - Love meaningful, science-oriented projects
 - Admin for Firebase Support Slack
@@ -42,18 +42,38 @@
   <img alt="TDD" src="https://img.shields.io/badge/TDD-Tests%20as%20specs-success">
 </p>
 
-### Featured projects
-- **Backyard Hunt** — QR-code based treasure/scavenger hunts for kids  
-  https://backyard-hunt.com  
-- **Click Defeat** — Idle button-smashing time trials for couples/friends  
-  https://click-defeat.com
+---
+
+### Featured products
+
+#### Backyard Hunt
+QR-code based treasure/scavenger hunts for kids, built with Flutter and Firebase.
+
+<p>
+  <img src="./assets/backyard-hunt-flutter-1.png" alt="Backyard Hunt screenshot" width="420" />
+</p>
+
+🔗 https://backyard-hunt.com  
+
+---
+
+#### Click Defeat
+Idle, competitive button-smashing time trials for couples/friends.
+
+<p>
+  <img src="./assets/click-defeat-react-native-1.png" alt="Click Defeat screenshot" width="420" />
+</p>
+
+🔗 https://click-defeat.com  
+
+---
 
 ### What I do as a Fractional CTO
 - Design mobile + backend greenfield stacks (Flutter + Firebase + Functions)
-- Establish quality gates and test strategies
-- Build CI/CD pipelines (build, test, release)
-- Architect secure multi-env Firebase setups
-- Mentor teams on architecture and delivery cadence
+- Establish quality gates, testing strategies, and review practices
+- Build CI/CD pipelines (build, test, release) with GitHub Actions
+- Architect secure multi-environment Firebase setups
+- Mentor teams on architecture, clarity, and delivery cadence
 
 ### Typical architecture
 ```mermaid
