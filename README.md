@@ -4,6 +4,13 @@
 
 <h1 align="center">Hi, I'm Tomas Radvansky</h1>
 
+<!-- CTA BUTTON -->
+<p align="center">
+  <a href="https://tomas.radvansky.org/contact.html" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%20Call-33B5E5?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a call">
+  </a>
+</p>
+
 <p align="center">
   Remote-only Fractional CTO specializing in Flutter, Firebase, and Node.js (TS).  
   I build scalable mobile apps, solid architectures, and CI/CD pipelines for  
