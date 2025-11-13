@@ -57,12 +57,13 @@
 
 ### Typical architecture
 ```mermaid
-graph LR
-  A[Flutter App (iOS/Android/Web)] --> B[Firebase Auth]
-  A --> C[Firestore / RTDB]
-  A --> D[Storage]
-  C --> E[Cloud Functions (Node.js / TS)]
-  E --> F[GCP Services]
-  G[GitHub Actions] -->|Build/Test| A
-  G -->|Deploy Functions| E
-  G -->|Rules/Configs| C
+graph LR;
+    A[Flutter App] --> B[Firebase Auth];
+    A --> C[Firestore];
+    A --> D[Storage];
+    C --> E[Cloud Functions];
+    E --> F[GCP Services];
+    G[GitHub Actions] --> A;
+    G --> E;
+    G --> C;
+```
